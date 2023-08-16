@@ -1,0 +1,10 @@
+.custom-svg:hover{
+    stroke: black;
+
+
+}
+
+.custom-img:hover{
+    background-color: linear-gradient(45deg, blue, white);
+    
+}
